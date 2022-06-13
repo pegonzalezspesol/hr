@@ -2,7 +2,7 @@
 {
     "name": "HR Branch",
     "summary": "Allow define company branch for employee process",
-    "version": "14.0.1.0.0",
+    "version": "15.0.1.0.0",
     "development_status": "Mature",
     "category": "Human Resources",
     "website": "https://github.com/OCA/hr",
@@ -14,5 +14,4 @@
     "depends": ["hr"],
     "data": ["views/hr_department_views.xml", "views/hr_employee_views.xml"],
     "demo": [],
-    "qweb": [],
 }
